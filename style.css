@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(167, 166, 166);
+    background-color: white;
 }
 
 .card-grid{
@@ -11,7 +11,7 @@ body{
 
 .card{
     border-radius: .25rem;
-    box-shadow:0, 4px, 8px 0 rgba(0,0,0,0.6);
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,0.6);
     transition:0.4s;
     background-image: linear-gradient(to right, rgb(25, 235, 140), rgb(30, 150, 236));
     text-align:center;
@@ -26,8 +26,9 @@ body{
 }
 
 .card-body{
-    padding:2px, 16px;
-    background: white;
+    margin: 10px;
+    border-radius: 3px;
+    background: rgb(240, 239, 239);
 }
 
 .info {
