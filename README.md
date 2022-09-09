@@ -15,7 +15,7 @@ This is a Node.js command-line application that takes in information about emplo
 
 ** Usage **
 ![screenshot](./assets/images/Screen%20Shot%202022-09-08%20at%208.32.49%20PM.png)
-![watch me](https://drive.google.com/file/d/1tp8GFWxVbbSPGLEozx02zLzMT-uBtkuo/view?usp=sharing)
+Video - (https://drive.google.com/file/d/1tp8GFWxVbbSPGLEozx02zLzMT-uBtkuo/view?usp=sharing)
 
 ** Installation **
 - Install Jest and Inquirer 
